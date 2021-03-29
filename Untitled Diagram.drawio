@@ -1,1 +1,340 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T08:45:53.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="vndScESkKZMp17nRo5-6" version="14.5.0" type="github"><diagram id="Qk2V2iAS_bsN-FQObt6a" name="Page-1">7V1rc6O6Gf41TE8/LIO4SOgj2E7b6dkz26bT0/3I2qzNKTEZm+wm/fWVQOIiyTYkBhSc9UwWhLjpeS96H70ShrN4eP7LIXrcfc42cWrY1ubZcJaGbQMb+eQ/WvJSlni+VRZsD8mGVaoL7pP/xayQV3tKNvGxVTHPsjRPHtuF62y/j9d5qyw6HLKf7Wrfs7R918doG0sF9+solUt/Tzb5riz1bVSX/zVOtjt+ZwBxeeQh4pXZmxx30Sb72ShyVoazOGRZXm49PC/ilDYeb5fyvLsTR6sHO8T7vMsJv1k/0qcV/PzwB4J/+/SPdYr+ff+JXeVHlD6xF2YPm7/wFtgesqdH+Wb8zPiQx88qKKJv/Ar12xIxibOHOD+8kHr8LMCxZiLiWGz/Z93glTzsWo3NCiMG8ra6eN0OZIM1RY9mseVmWQVGaBlEeumGY4QeOW6sFkZACl22TSoEvrEKDXxn+LgoJJV9Wk4K6Vk+OwV7vISeu4zySGp30uz7TUyf0jKc8OcuyeP7x2hNj/4kukbKdvkDeaslIJsyPmfhFkE7CY4jQwF8BRT+UEg4H0gwDWgrCZgaGPcDmDYSL22cJgPGUwBTNujCWC3pX9KgpMS3jWBRAFC08imE3gkYle+YuPXh9A4VW9r5UzRTYwFPYKavP/U/kNDTn+IPYPT0p/x5ZuFQu6Ohi0MFGoSoDnTaMqkQysrLtjwqGqxZZhui9u6Au7bpewi4Nv/ryt0dD5mNCggooLIdEzrN31DIzTak7R/T+mYLONRWM+CZrtf8OXoDO9uQuH9M7Jp2SydhC1jHMrHV/CG9gVWF1DcGLEPOhWarxaHewGkYjdvTR+NgruE4eH/xOJhrQN4fC90icjDXkLw/NLrF5PacYvIecOgSlNsaBOXSuLEGnpU3w+xMxknY9PWs9lzj7P5Y6OZZ7blGyv2h4bGlNp51TsPHPeCYwLOuV1/gP8Ovn7b3SYgfnj69fPv9jo94Nxom3mzje7abHfJdts32UbqqS8N209V1fs2yR9Zgf8R5/sKy66KnPGs3Z/yc5P+hp5sE/nL3K7sa3V4+N3de+M6evG95luPyfXraJ8u0oM1L6pOLvdbZX+JDQpotPrDCnrAes6fDOu5gZ/LosI3PXpFVpG19VkwOcRrlyY9mpSGUEE4pBaApAqZ3QQg2Ac2yJLv7bB+XJXcJfd3i+JE0fc5rrNPoeEzWvJhVU+tzZ4j9ayPHTv2SJeRZGr1NgcdxxU5kKWTsNEEAqud4g0woSJsJhKQFKIO8iaYgFDXktVxcB/CLOu1dXTLeptMy0bMMC68IqfMkG4FnYFIJpuStwm8HsrWlW4voGJPz/pVlqXyw8MRh4ZsXBl4ZWOE/0jR5PMavcaq9ezPIEZRE1Z+BqpDMGqxDgyf1qB+2VLalniglHU2pdCFXuJAnXqh85cFsMr/9pLkJ2DfbMQTCgJc0mRCuCC21c4ZSO0fBEM0ixKsw786E2CZSjIg1TSKG7fFST4YKu6ZqLPz6wM2VwuoPnA1M38Ke7bC/oKVmgBwFzZ88iK0VrnOlw/rjCmj6gYsg4H8FDkYcnZbTTrQCVkWmhRQWf1Hgtiq6h2TDoRsXGZuyAjnXt1Td06IwCIwAFxvAwMsKbbF3+kv8bLKbEOEoL0Puhsu7QSMkj7PgIoUKSaqet5RCq6zwd4/dmLxDCP6sm1xx8kjMV9JbbhRM3y0GlE7ngFIvksiZlCSqg5mvjSMXmUKvSRTWrKCaI3w/ouECvUQDTSoavWJeJhrAtCynJRwm9L0LAqIkkTuGyZei7RGkxtFMalSpSKeHfqhTRwa2Cs+8pA4+LBy8T3z8pV5EuRFWvr/shJJ7oaJbomK55HEl0vEIeR+GdBr84qgfGNitr+ncyX2FXfbw7ek4Ch8Gcbtr6VvK0NxRMWKDJSk4irymW3T83Ghftu5YKz11O7BOH/g1K+rVcXNV1Nj5IfYTQZoQhtUWWTaghUHE3G76Fo8DrSKQb0T0TfPKQsQbMtAY4ekNtKug4G5SwbsO37tQLwVXUG3vF7/XRm8j4A6vjrt6nMkXMk2BI+b/DDz476o4vrd1zQsmjVn+Gzb4ALg6WHxvCgPxuoQftTUAF6zB9M4EdjQqnmbORDGHTa3TSo2szMAJjdddX7EvmF499HVSgq2Pvr5BYa4e9Z7IrHNcAWKLD2ld8K7EWEQvjWqPtMLxzJ1s5KnvVMtCec3rOm9/SmHpQ9TrLyxSTwzY3XpivWXFkjoK7E7DyopqzmF3a79k1YKSbj3DB1wK/d+bX9AicPesSTV9FLfgXX3QopumI9s2Aaz/oUHUHvNFPOq7Dq/0nooQLHQ9cHlgxhM3zuVlENW0WdjmOwVLKCro29IkXrE0JkBCciL0Fdk0niINAuGhlHRW7Npr47E3GICu7MxYlkJy1UhcdWtgdoan6OgfDdTS0mLyzEsD7WNIi15ht6di3N7eEbMahr0cA/fZRQJiur3GCHlxEdV8kLPj6rx39q76blqMinuTUnDtKO38xMs3KONIfDkJ6dsruUFxes+1ojSHj5Vx02/5I/TXVJRch5nPrayXkKpmqbvUWiwbM7mWlMYP3em7bzYU0ldUOe7jdt6mzWy7haRHr3P6ml4TLD11+trr5i9UHptqpVvkzXcYAquG28oUN6LFVcY8zb4IG4nwC3pIAx1HTlvFPU/FowBP4Yt9dygkOySoDb/kr0Q0KgmmcWfV8Yea3SSeCvKZzqqDc50O2R+4Wc2qgwoy6UZxndesOqiaLnkiDbOeTCcNsr9uutySRussrreKEH5BQ3hKGiwL5qFKzbH4BLqCagiKeX4BTwZiuTvVnD+rkCGeUcouGBbV/OLK9KnHmVzXQ7ze5eQ6KPfsJqME0XlO8OpE9FjUIu8MTZD/rWYjIBb6jDYSrnEl2sPjYzvVjZixHZT2gHpMGH2DwHRNAePf8NQksoUqvknqLnRcfo9GnrimiM+lkC55+NqN2yKuL1CmihLPsuIdGkSXKKIPD9jDl26rniS+YN2moOnUFnSDseILyqAxX1q5Nly4y4B2tlT5Dr/8Gv+I98ddHif7PxHFslabhOrTMiGWbr+m6ysF6TY7JPnu4eoO8BU5qmK6sWJZQttV0eNiNsz1ZPB9TikFgjMC+II76rguYWeTgzuaHO4pBvdRwjJ2wBt5sBQqaLr35UU6Q4r08iKq1LJGpj9e0dEJZogL+147g5LUPDEXrTV1QDXVF1vlucuwPRLKl/iobl7eJ5DzJSe3wC62VOzfuDYYKdi/8XlRp1PLKHlROFjLzJVeqyAfmRcFQPjQz1CBMporgdYfuQvEqMBcuLoDO9f1xvoDe4kZxWbrY2iqDEmtkD2xev9FjBbG+Ziza6hZJTkpp7nbxWOUPQnc6n5oKCF8BVT1B9G0lYD3N11RDAQHYyV5r3+C9alfl0LlitOvEPsg0alVd6UzoGULIjUA+4g6fMtP67ixs2AgvfJqkOprgeWYls9pPx7P9U2BE3g7arWhlimrEIsTGQCE6sBHaZgHC3xOrNlVJRM7xdQRUU+6LgkfHR9JbEh2vifPVGuuknGEBHvj26qGHPWrN0jmRr7GR6ndyBvmhjCL45D9N15kaUa5QjZ69j1JU6EoSpPtnuyuSbtRWjGk7ZWsozRgBx6SzSY9hUjbal0BA2kaJcIyw6wiNwbjNnyZ27gtBGw4NQIyh3JbCFi+KsNvXAxkNmTWGADxy6LAojzHxCDIzMWNgQD86UGQSYZZgyBaI6z4SOO4AMjZHrMGQNIC34GTK4Ec8/6WzRcCbHvaISAHv7eEgBbuWA5x5wyBvPCMDv1SOT6+LQxs5bSoUTHAcoQ8ZwwkU6RBpxTLIfKcIZAX1vBVE/XHhUCOkOcMAbZtkXdGYGoIJl3uZKT17KZaWdjGAmxdv4VJlNU1UXOEWLgwxK3EIL99mxNfynz7snn8hU4998kWeOVoItk9ZFnerE50c/c528S0xv8B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-29T08:45:59.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="dqCAppwO5-ROAUEEE7eU" version="14.5.0" type="github">
+  <diagram id="Qk2V2iAS_bsN-FQObt6a" name="Page-1">
+    <mxGraphModel dx="1278" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-1" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1110" y="300" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-2" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-1" vertex="1">
+          <mxGeometry x="30" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-3" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-1" vertex="1">
+          <mxGeometry x="20" y="10" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-4" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-1" vertex="1">
+          <mxGeometry x="10" y="20" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-5" value="제휴사 별 차량정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-1" vertex="1">
+          <mxGeometry y="30" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-6" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="900" y="300" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-7" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-6" vertex="1">
+          <mxGeometry x="30" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-8" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-6" vertex="1">
+          <mxGeometry x="20" y="10" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-9" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-6" vertex="1">
+          <mxGeometry x="10" y="20" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-10" value="제휴사 별 차량정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-6" vertex="1">
+          <mxGeometry y="30" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-11" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="363" y="220" width="300" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-12" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-11" vertex="1">
+          <mxGeometry x="42.857142857142854" width="257.1428571428571" height="123.63636363636363" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-13" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-11" vertex="1">
+          <mxGeometry x="28.571428571428573" y="15.454545454545453" width="257.1428571428571" height="123.63636363636363" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-14" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-11" vertex="1">
+          <mxGeometry x="14.285714285714286" y="30.909090909090907" width="257.1428571428571" height="123.63636363636363" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-15" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-11" vertex="1">
+          <mxGeometry y="46.36363636363636" width="257.1428571428571" height="123.63636363636363" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-16" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="900" y="200" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-17" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-16" vertex="1">
+          <mxGeometry x="30" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-18" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-16" vertex="1">
+          <mxGeometry x="20" y="10" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-19" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-16" vertex="1">
+          <mxGeometry x="10" y="20" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-20" value="제휴사 별 차량정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-16" vertex="1">
+          <mxGeometry y="30" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-21" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1110" y="200" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-22" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-21" vertex="1">
+          <mxGeometry x="30" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-23" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-21" vertex="1">
+          <mxGeometry x="20" y="10" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-24" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-21" vertex="1">
+          <mxGeometry x="15" y="20" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-25" value="제휴사 별 차량정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-21" vertex="1">
+          <mxGeometry y="30" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cEP6RBY-gSiB9mu-ybWF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.34;entryY=-0.062;entryDx=0;entryDy=0;entryPerimeter=0;" parent="N0vluE6Mmj76I-Qcl7VS-21" source="N0vluE6Mmj76I-Qcl7VS-24" target="N0vluE6Mmj76I-Qcl7VS-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-28" target="N0vluE6Mmj76I-Qcl7VS-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-28" value="DB분류&lt;br&gt;Case Tool&lt;br&gt;시작" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="420" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="410" as="targetPoint" />
+            <mxPoint x="430" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-30" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="398.5" y="791.5" width="229" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-31" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-30" vertex="1">
+          <mxGeometry x="32.71428571428571" width="196.28571428571425" height="94.54545454545453" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-32" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-30" vertex="1">
+          <mxGeometry x="21.80952380952381" y="11.818181818181817" width="196.28571428571425" height="94.54545454545453" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-33" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-30" vertex="1">
+          <mxGeometry x="10.904761904761905" y="23.636363636363633" width="196.28571428571425" height="94.54545454545453" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-34" value="브랜드 별 차량 대분류 목록 Data&lt;br&gt;(ex. 아반떼, 그랜저, K5 등)" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-30" vertex="1">
+          <mxGeometry y="35.45454545454545" width="196.28571428571425" height="94.54545454545453" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-38" target="N0vluE6Mmj76I-Qcl7VS-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-38" target="N0vluE6Mmj76I-Qcl7VS-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.003;entryY=0.685;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-38" target="N0vluE6Mmj76I-Qcl7VS-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-38" value="제휴사에 해당 대분류를 가진&lt;br&gt;차량이 있는가?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="695" y="801.5" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-41" target="N0vluE6Mmj76I-Qcl7VS-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-41" target="N0vluE6Mmj76I-Qcl7VS-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-41" value="제휴사 차량 목록에&lt;br&gt;같은 배기량을 가진&lt;br&gt;차량이 있는가?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="695" y="979.5" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-44" target="N0vluE6Mmj76I-Qcl7VS-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-44" target="N0vluE6Mmj76I-Qcl7VS-66" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="1380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-44" value="제휴사에 해당 등급을 가진&lt;br&gt;차량이 있는가?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="695" y="1149.5" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-46" target="N0vluE6Mmj76I-Qcl7VS-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-46" value="해당 차량에 등급이 있는가?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="1149.5" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="1034" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1275" y="1034" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="1120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1095" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-49" value="해당 차량이름에&lt;br&gt;배기량이 있는가?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="979.5" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-51" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="722.1666666666667" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="914" y="722" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-51" value="다음 대분류 검색" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1017.5" y="683" width="155" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-54" target="N0vluE6Mmj76I-Qcl7VS-51" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1095" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-54" target="N0vluE6Mmj76I-Qcl7VS-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-54" value="해당 차량이름에 다른 종류의&lt;br&gt;대분류가 있는가?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="801.5" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-56" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1343" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1342" y="708" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-56" value="차량정보를 누락시킴" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1265" y="817" width="155" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-58" target="N0vluE6Mmj76I-Qcl7VS-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-58" value="차량 기본정보에서&lt;br&gt;차량 하나 받아옴" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="735" y="559.5" width="150" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-59" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="360" y="1129.5" width="229" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-60" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-59" vertex="1">
+          <mxGeometry x="32.71428571428571" width="196.28571428571425" height="94.54545454545453" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-61" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-59" vertex="1">
+          <mxGeometry x="21.80952380952381" y="11.818181818181817" width="196.28571428571425" height="94.54545454545453" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-62" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-59" vertex="1">
+          <mxGeometry x="10.904761904761905" y="23.636363636363633" width="196.28571428571425" height="94.54545454545453" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-63" value="차량 별 등급 목록 Data&lt;br&gt;(ex. 프레스티지, 리무진, 밴, 스마트)" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-59" vertex="1">
+          <mxGeometry y="35.45454545454545" width="196.28571428571425" height="94.54545454545453" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-60" target="N0vluE6Mmj76I-Qcl7VS-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="1271" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="589" y="1205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-66" target="N0vluE6Mmj76I-Qcl7VS-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-66" value="기본 차량정보와 제휴사의 차량정보들&lt;br&gt;편집거리 알고리즘으로 비교&lt;br&gt;(Levenshtein&#39;s Edit Distance Algorithm)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="1330" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.001;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-69" target="N0vluE6Mmj76I-Qcl7VS-71" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-69" target="N0vluE6Mmj76I-Qcl7VS-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-69" value="가장 유사한 차량을 분류된 DB에 저장함" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="1490.5" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-70" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="363" y="1490.5" width="229" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-71" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-70" vertex="1">
+          <mxGeometry x="32.71428571428571" width="196.28571428571425" height="116.36363636363633" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-72" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-70" vertex="1">
+          <mxGeometry x="21.80952380952381" y="14.545454545454541" width="196.28571428571425" height="116.36363636363633" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-73" value="가공 전 차량 기본정보 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-70" vertex="1">
+          <mxGeometry x="10.904761904761905" y="29.090909090909083" width="196.28571428571425" height="116.36363636363633" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-74" value="기본정보, 제휴사 차량정보가&lt;br&gt;결합된 Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="N0vluE6Mmj76I-Qcl7VS-70" vertex="1">
+          <mxGeometry y="43.63636363636363" width="196.28571428571425" height="116.36363636363633" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-77" target="N0vluE6Mmj76I-Qcl7VS-58" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1440" y="1716" />
+              <mxPoint x="1440" y="602" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-77" target="N0vluE6Mmj76I-Qcl7VS-78" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-77" value="모든 차량정보를 비교했는가?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="697.5" y="1660.5" width="225" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-78" value="종료" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="770" y="1820.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-79" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="810" y="1790" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-80" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="810" y="1260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-81" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="810" y="1089.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-82" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="1014.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-83" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="1184.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-84" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="810" y="910" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-85" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="836.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-86" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="925" y="836.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-87" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="925" y="1014.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-88" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1095" y="1089.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-89" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1095" y="1259.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-90" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="925" y="1184.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-91" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1095" y="781.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-92" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="922.5" y="1715" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N0vluE6Mmj76I-Qcl7VS-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="N0vluE6Mmj76I-Qcl7VS-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="1290" as="targetPoint" />
+            <mxPoint x="1094.7857142857142" y="1269.7142857142858" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1095" y="1290" />
+              <mxPoint x="810" y="1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
